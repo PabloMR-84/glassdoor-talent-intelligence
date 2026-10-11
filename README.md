@@ -1,6 +1,6 @@
 # 📊 Glassdoor Intelligence: Evaluación del Ecosistema Laboral de Nokia vs. Big Tech
 
-[📄 Ver Presentación Ejecutiva (PDF)](reports/presentacion_glassdoor_nokia.pdf)
+[📄 Ver Presentación Ejecutiva (PDF)](reports/presentacion_autoexplicativa_glassdoor_nokia.pdf)
 
 ### 1) Objetivo
 Este proyecto aplica técnicas avanzadas de **Procesamiento de Lenguaje Natural (NLP)** y **Deep Learning** para transformar datos no estructurados en insights estratégicos de *People Analytics*. Su objetivo principal es evaluar la marca empleadora (*Employer Branding*) de Nokia frente a la competencia global (Google, Apple, Microsoft, Uber), identificando con precisión los motivos de fuga de talento (*churn drivers*) y midiendo las palancas reales de atracción (*Employee Value Proposition*).

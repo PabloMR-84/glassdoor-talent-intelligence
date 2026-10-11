@@ -41,6 +41,16 @@ Se diseñó un pipeline de aprendizaje no supervisado para agrupar temáticament
 - **Atracción (Foco Externo)**: Campaña de *Talent Targeting* utilizando la flexibilidad laboral y la conciliación como núcleo de la Propuesta de Valor (EVP) para captar talento desencantado por las políticas presenciales de competidores como Apple o Uber.
 
 ### 8) Estructura del Proyecto
+```text
+nokia-glassdoor-nlp/
+├── data/
+│   └── raw/                                                   # Dataset utilizado (glassdoor_reviews_hr.parquet)
+├── notebook/
+│   └── glassdoor_reviews_deep_learning_analysis.ipynb         # Pipeline end-to-end de NLP (DistilBERT + BERTopic)
+├── reports/
+│   └── presentacion_autoexplicativa_glassdoor_nokia.pdf       # Presentación del proyecto
+└── README.md                                                  # Documentación del proyecto
+```
 
 ### 9) Instrucciones de Uso
 
